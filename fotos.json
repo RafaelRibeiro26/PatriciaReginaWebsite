@@ -3,7 +3,7 @@
     "name": "Nas Alturas",
     "description": "Morro Dona Marta",
     "image_small":"https://i.imgur.com/oQzg4lw.jpg",
-    "image_big":"https://i.imgur.com/2L75IFy.jpg",
+    "image_big":"https://i.imgur.com/2L75IFy.jpg"
     
 },
  
@@ -11,7 +11,7 @@
     "name": "Praia em Chamas",
     "description": "Vista de Copacabana, da praia do Leme",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -19,7 +19,7 @@
     "name": "Praia e Cachorro",
     "description": "Praia de Geriba, Buzios",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -27,14 +27,14 @@
     "name": "Linha de Chegada",
     "description": "Charitas, Niteroi",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  {
     "name": "Esperando",
     "description": "Centro da Cidade",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -42,14 +42,14 @@
     "name": "Pontinhos",
     "description": "Morro Dona Marta, Botafogo",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  {
     "name": "A Trama",
     "description": "Morro Dona Marta, Botafogo",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -57,14 +57,14 @@
     "name": "Passaros",
     "description": "Buzios, Rio de Janeiro",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  {
     "name": "A Pia",
     "description": "Centro da Cidade, Rio de Janeiro",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -72,14 +72,14 @@
     "name": "Sozinha",
     "description": "Jockey Club",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  {
     "name": "Bagunca Organizada",
     "description": "Jockey Club",
     "image_small":"",
-    "image_big":"",
+    "image_big":""
     
 },
  
@@ -87,8 +87,7 @@
     "name": "Olhos Negros",
     "description": "Zoologico, Quinta do Boa vista",
     "image_small":"",
-    "image_big":"",
-    
-},
+    "image_big":""
+}
  ]
  
